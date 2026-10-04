@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791125120453,
+  "updatedAt": 1791125550483,
   "items": [
     {
       "appid": 1984020,
@@ -74,37 +74,46 @@
       "type": "game"
     },
     {
-      "appid": 1145360,
-      "name": "Hades",
-      "price": "6,12€",
+      "appid": 1540210,
+      "name": "Arizona Sunshine® VR 2",
+      "price": "9,89€",
       "priority": 9,
-      "date_added": 1761594018,
-      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+      "date_added": 1764963981,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540210/header.jpg?t=1780946081",
+      "type": "game"
+    },
+    {
+      "appid": 377160,
+      "name": "Fallout 4",
+      "price": "7,99€",
+      "priority": 10,
+      "date_added": 1791125357,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1786648137",
       "type": "game"
     },
     {
       "appid": 546560,
       "name": "Half-Life: Alyx",
       "price": "14,74€",
-      "priority": 10,
+      "priority": 11,
       "date_added": 1764679826,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/546560/header.jpg?t=1790202165",
       "type": "game"
     },
     {
-      "appid": 1540210,
-      "name": "Arizona Sunshine® VR 2",
-      "price": "9,89€",
-      "priority": 11,
-      "date_added": 1764963981,
-      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540210/header.jpg?t=1780946081",
+      "appid": 1145360,
+      "name": "Hades",
+      "price": "6,12€",
+      "priority": 12,
+      "date_added": 1761594018,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
       "type": "game"
     },
     {
       "appid": 617830,
       "name": "SUPERHOT VR",
       "price": "8,99€",
-      "priority": 12,
+      "priority": 13,
       "date_added": 1764680270,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/header.jpg?t=1789468028",
       "type": "game"
@@ -113,7 +122,7 @@
       "appid": 686060,
       "name": "Mewgenics",
       "price": "21,74€",
-      "priority": 13,
+      "priority": 14,
       "date_added": 1769963523,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/aa8075d11165fef4d4d0d09c156f0da0623b5da1/header.jpg?t=1788661023",
       "type": "game"
@@ -122,7 +131,7 @@
       "appid": 1313140,
       "name": "Cult of the Lamb",
       "price": "11,49€",
-      "priority": 14,
+      "priority": 15,
       "date_added": 1791044544,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1786554901",
       "type": "game"
