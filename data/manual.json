@@ -1,0 +1,3 @@
+{
+  "_ayuda": "Opcional. Por appid: gifted (true si ya te lo regalaron), giftedBy (quien), note (nota en la tarjeta). Ejemplo: \"1326470\": { \"gifted\": true, \"giftedBy\": \"un viewer\" }"
+}
