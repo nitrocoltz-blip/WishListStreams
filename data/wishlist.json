@@ -1,19 +1,131 @@
 {
-  "updatedAt": 1791044640000,
+  "updatedAt": 1791125120453,
   "items": [
-    {"appid":1326470,"name":"Sons Of The Forest","price":"8,40€","priority":1,"date_added":1751587200,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg","type":"game"},
-    {"appid":1145360,"name":"Hades","price":"6,12€","priority":2,"date_added":1761523200,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg","type":"game"},
-    {"appid":2479650,"name":"SpongeBob SquarePants: Titans of the Tide","price":"19,99€","priority":3,"date_added":1763424000,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479650/header.jpg","type":"game"},
-    {"appid":546560,"name":"Half-Life: Alyx","price":"14,74€","priority":4,"date_added":1764633600,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/546560/header.jpg","type":"game"},
-    {"appid":617830,"name":"SUPERHOT VR","price":"8,99€","priority":5,"date_added":1764633600,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/617830/header.jpg","type":"game"},
-    {"appid":1540210,"name":"Arizona Sunshine® VR 2","price":"9,89€","priority":6,"date_added":1764892800,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1540210/header.jpg","type":"game"},
-    {"appid":1229490,"name":"ULTRAKILL","price":"16,11€","priority":7,"date_added":1765929600,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg","type":"game"},
-    {"appid":629730,"name":"Blade and Sorcery","price":"25,49€","priority":8,"date_added":1765929600,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/629730/header.jpg","type":"game"},
-    {"appid":686060,"name":"Mewgenics","price":"21,74€","priority":9,"date_added":1769904000,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/header.jpg","type":"game"},
-    {"appid":2584270,"name":"Mortal Shell II","price":"49,99€","priority":10,"date_added":1788048000,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2584270/header.jpg","type":"game"},
-    {"appid":233860,"name":"Kenshi","price":"10,79€","priority":11,"date_added":1790985600,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/233860/header.jpg","type":"game"},
-    {"appid":1984020,"name":"Everhood 2","price":"11,70€","priority":12,"date_added":1790985600,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1984020/header.jpg","type":"game"},
-    {"appid":1091500,"name":"Cyberpunk 2077","price":"17,99€","priority":13,"date_added":1790985600,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg","type":"game"},
-    {"appid":1313140,"name":"Cult of the Lamb","price":"11,49€","priority":14,"date_added":1790985600,"capsule":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1313140/header.jpg","type":"game"}
+    {
+      "appid": 1984020,
+      "name": "Everhood 2",
+      "price": "11,70€",
+      "priority": 1,
+      "date_added": 1791044384,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984020/header.jpg?t=1790104182",
+      "type": "game"
+    },
+    {
+      "appid": 1091500,
+      "name": "Cyberpunk 2077",
+      "price": "17,99€",
+      "priority": 2,
+      "date_added": 1791044436,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
+      "type": "game"
+    },
+    {
+      "appid": 1229490,
+      "name": "ULTRAKILL",
+      "price": "16,11€",
+      "priority": 3,
+      "date_added": 1765999472,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229490/header.jpg?t=1783942574",
+      "type": "game"
+    },
+    {
+      "appid": 233860,
+      "name": "Kenshi",
+      "price": "10,79€",
+      "priority": 4,
+      "date_added": 1791044376,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/fa72ac8a032fd876780cd5b554e4c03b4976ef74/header.jpg?t=1779293333",
+      "type": "game"
+    },
+    {
+      "appid": 1326470,
+      "name": "Sons Of The Forest",
+      "price": "8,40€",
+      "priority": 5,
+      "date_added": 1751627043,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+      "type": "game"
+    },
+    {
+      "appid": 2479650,
+      "name": "Bob Esponja: Titanes de las mareas",
+      "price": "19,99€",
+      "priority": 6,
+      "date_added": 1763495516,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479650/9777cfcff9ac80398fa63cf2a8ae238438e59000/header_spanish.jpg?t=1770127075",
+      "type": "game"
+    },
+    {
+      "appid": 2584270,
+      "name": "Mortal Shell II",
+      "price": "49,99€",
+      "priority": 7,
+      "date_added": 1788135133,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1788251111",
+      "type": "game"
+    },
+    {
+      "appid": 629730,
+      "name": "Blade and Sorcery",
+      "price": "25,49€",
+      "priority": 8,
+      "date_added": 1766004569,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/header.jpg?t=1765901841",
+      "type": "game"
+    },
+    {
+      "appid": 1145360,
+      "name": "Hades",
+      "price": "6,12€",
+      "priority": 9,
+      "date_added": 1761594018,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+      "type": "game"
+    },
+    {
+      "appid": 546560,
+      "name": "Half-Life: Alyx",
+      "price": "14,74€",
+      "priority": 10,
+      "date_added": 1764679826,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/546560/header.jpg?t=1790202165",
+      "type": "game"
+    },
+    {
+      "appid": 1540210,
+      "name": "Arizona Sunshine® VR 2",
+      "price": "9,89€",
+      "priority": 11,
+      "date_added": 1764963981,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540210/header.jpg?t=1780946081",
+      "type": "game"
+    },
+    {
+      "appid": 617830,
+      "name": "SUPERHOT VR",
+      "price": "8,99€",
+      "priority": 12,
+      "date_added": 1764680270,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/header.jpg?t=1789468028",
+      "type": "game"
+    },
+    {
+      "appid": 686060,
+      "name": "Mewgenics",
+      "price": "21,74€",
+      "priority": 13,
+      "date_added": 1769963523,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/aa8075d11165fef4d4d0d09c156f0da0623b5da1/header.jpg?t=1788661023",
+      "type": "game"
+    },
+    {
+      "appid": 1313140,
+      "name": "Cult of the Lamb",
+      "price": "11,49€",
+      "priority": 14,
+      "date_added": 1791044544,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/19f32bb477a6e9d058e05193b4e282149bd70644/header.jpg?t=1786554901",
+      "type": "game"
+    }
   ]
 }
