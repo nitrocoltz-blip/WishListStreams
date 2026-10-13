@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1791901054159,
+  "updatedAt": 1791931788358,
   "items": [
     {
       "appid": 1984020,
@@ -13,7 +13,7 @@
     {
       "appid": 1091500,
       "name": "Cyberpunk 2077",
-      "price": "59,99€",
+      "price": "17,99€",
       "priority": 2,
       "date_added": 1791044436,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
@@ -76,7 +76,7 @@
     {
       "appid": 377160,
       "name": "Fallout 4",
-      "price": "19,99€",
+      "price": "4,99€",
       "priority": 9,
       "date_added": 1791125357,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1786648137",
