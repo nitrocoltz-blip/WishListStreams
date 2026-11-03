@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1793636158323,
+  "updatedAt": 1793667727469,
   "items": [
     {
       "appid": 1984020,
@@ -22,7 +22,7 @@
     {
       "appid": 2479650,
       "name": "Bob Esponja: Titanes de las mareas",
-      "price": "39,99€",
+      "price": "19,99€",
       "priority": 3,
       "date_added": 1763495516,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479650/9777cfcff9ac80398fa63cf2a8ae238438e59000/header_spanish.jpg?t=1770127075",
@@ -49,7 +49,7 @@
     {
       "appid": 1326470,
       "name": "Sons Of The Forest",
-      "price": "8,11€",
+      "price": "28,99€",
       "priority": 6,
       "date_added": 1751627043,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
@@ -58,7 +58,7 @@
     {
       "appid": 1540210,
       "name": "Arizona Sunshine® VR 2",
-      "price": "11,99€",
+      "price": "29,99€",
       "priority": 7,
       "date_added": 1764963981,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540210/header.jpg?t=1780946081",
