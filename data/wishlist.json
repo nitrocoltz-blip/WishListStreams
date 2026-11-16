@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794811084045,
+  "updatedAt": 1794867060532,
   "items": [
     {
       "appid": 1984020,
@@ -31,7 +31,7 @@
     {
       "appid": 2584270,
       "name": "Mortal Shell II",
-      "price": "37,49€",
+      "price": "49,99€",
       "priority": 4,
       "date_added": 1788135133,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
@@ -43,7 +43,7 @@
       "price": "29,99€",
       "priority": 5,
       "date_added": 1766004569,
-      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/header.jpg?t=1765901841",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/header.jpg?t=1794839289",
       "type": "game"
     },
     {
@@ -121,7 +121,7 @@
     {
       "appid": 1771300,
       "name": "Kingdom Come: Deliverance II",
-      "price": "59,99€",
+      "price": "19,79€",
       "priority": 14,
       "date_added": 1791490559,
       "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
